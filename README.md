@@ -1,6 +1,6 @@
 # Custom PC Build
 
-This is a $3,000 client pc build. It contains the list of PC parts for a custom-built computer. The build process and component selection are detailed below.
+This is a $3,000 client PC build. It contains the list of PC parts for a custom-built computer. The build process and component selection are detailed below.
 
 ## Build Process
 
