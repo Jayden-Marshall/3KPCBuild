@@ -45,6 +45,16 @@ This is a $3,000 client PC build. It contains the list of PC parts for a custom-
 | External Storage (1 TB)                       | Western Digital ELEMENTS 1 TB External Hard Drive             | $64.79   | Amazon    |
 | **Total**                                      |                                                              | **$3063.20** |           |
 
+## Problems Faced
+
+1. **Radiator and Case Fans Placement:** It was difficult to place the radiator and case fans together.
+2. **PC Boot Issues:** The PC struggled to boot up after completion.
+
+## Resolved Issues
+
+1. **Radiator and Case Fans Placement:** I resolved this by using different screws and making some adjustments. Although it required sacrificing a fan, the customer trusted the process, and it ended up working out.
+2. **PC Boot Issues:** I realized the flash drive used for the operating system was not formatted to Fat32 but was 64GB. I converted it to Fat32 in disk management, which resolved the booting issues.
+
 **Building Portion:**
 
 <img src="https://github.com/Jayden-Marshall/3KPCBuild/assets/145166234/48c532a1-56d9-4627-bf83-a2dc70c9848b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
