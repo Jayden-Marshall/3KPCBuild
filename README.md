@@ -70,6 +70,6 @@ This is a $3,000 client PC build. It contains the list of PC parts for a custom-
 <img src="https://github.com/Jayden-Marshall/3KPCBuild/assets/145166234/1dac0228-6e56-43b8-ae10-14ebfa0a147f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-**Client Build Complete!:**
+<h1>Client Build Complete!: </h1>
 
 <img src="https://github.com/Jayden-Marshall/3KPCBuild/assets/145166234/c7d66ac2-c6e5-4f95-a2d5-858855b99c69" height="80%" width="80%" alt="Disk Sanitization Steps"/>
